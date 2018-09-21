@@ -1,4 +1,4 @@
-print('hoi')
+print('hoi, hoe gaat het vandaag')
 uurloon= eval(input('wat is je uurloon?'))
 gewerkt = eval(input('Hoeveel uur heb je gewerkt?'))
 
